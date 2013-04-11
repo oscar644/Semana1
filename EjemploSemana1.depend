@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1365638832 source:/home/turupawn/Projects/CodeBlocks/EjemploSemana1/Robot.cpp
+	"Robot.h"
+
+1365638767 /home/turupawn/Projects/CodeBlocks/EjemploSemana1/Robot.h
+	<iostream>
+	<string>
+
+1365639131 source:/home/turupawn/Projects/CodeBlocks/EjemploSemana1/main.cpp
+	<iostream>
+	<string>
+	"Robot.h"
+
