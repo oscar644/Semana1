@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Robot.cpp" />
+		<Unit filename="Robot.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
