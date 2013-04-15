@@ -13,6 +13,7 @@ private:
     int power_level;
     string model;
     string comida;
+    int posiX,posiY,angulo,pasoss;
 
 public:
     Robot(string name,int power_level,string model,string comida);
@@ -20,6 +21,9 @@ public:
     int getPowerLevel();
     string getModel();
     string getComida();
+    void walk(int pasos);
+    void setAngulo(int angulo);
+    void printcordenada();
     virtual ~Robot();
 };
 
